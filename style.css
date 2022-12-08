@@ -5,7 +5,7 @@ Template: gridiculous
 Author: KeDeDigital LLP
 Author URI: https://digital-bridge.de
 Description: Custom Theme for Wasserwacht Thalmässing. Child-Theme based on Gridiculous
-Version: 1.0.2
+Version: 1.0.3
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: wawa
@@ -41,6 +41,6 @@ li.eme_period {list-style: none; padding: 0; margin: 0; margin-bottom: -15px;}
 	margin-left: 20px;
 }
 
-.sidebar-one {
+#sidebar-one {
 	background: #fff;
 }
